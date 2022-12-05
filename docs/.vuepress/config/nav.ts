@@ -47,11 +47,11 @@ export default <Array<NavItem>>[
       },
       {
         text: "从0开始一个gin项目",
-        link: "/deploy/",
+        link: "/game-world/",
       },
       {
         text: "微服务架构",
-        link: "/more/",
+        link: "/game-world/",
       },
     ],
   },

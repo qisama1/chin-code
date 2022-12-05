@@ -18,7 +18,7 @@ features: # 可选的
     imgUrl: /assets/img/java.png # 可选
   - title: 微服务
     details: SpringCloud、golang、SpringCloudAlibaba项目分享
-    link: /deploy/
+    link: /projects/
     imgUrl: /assets/img/spring.png
 
 
