@@ -43,7 +43,7 @@ export default <Array<NavItem>>[
     items: [
       {
         text: "从0开始一个SpringCloud项目",
-        link: "/game-wordls/",
+        link: "/game-world/",
       },
       {
         text: "从0开始一个gin项目",
