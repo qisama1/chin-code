@@ -2,7 +2,7 @@
 pageComponent:
   name: Catalogue
   data:
-    key: 060.projects
+    key: 050.projects
     imgUrl: /assets/img/spring.png
     description: 微服务
 title: 从0开始微服务
