@@ -1,7 +1,7 @@
 import { HeadTags } from "vuepress/config";
 
 export default <HeadTags>[
-  ["link", { rel: "icon", href: "/favicon.ico" }], //站点图标, 默认为 public/favicon.ico
+  ["link", { rel: "icon", href: "public/favicon.ico" }], //站点图标, 默认为 public/favicon.ico
   [
     "meta",
     {

@@ -5,6 +5,57 @@ import { NavItem } from "vuepress/config";
 export default <Array<NavItem>>[
   { text: "Home", link: "/" },
   {
+    text: "计算机基础",
+    items: [
+      {
+        text: "计算机网络",
+        link: "/start/",
+      },
+      {
+        text: "操作系统",
+        link: "/deploy/",
+      },
+      {
+        text: "Mysql45讲",
+        link: "/mysql45/",
+      },
+    ],
+  },
+  {
+    text: "Java基础",
+    items: [
+      {
+        text: "Java容器",
+        link: "/start/",
+      },
+      {
+        text: "JUC并发",
+        link: "/deploy/",
+      },
+      {
+        text: "JVM",
+        link: "/more/",
+      },
+    ],
+  },
+  {
+    text: "微服务",
+    items: [
+      {
+        text: "从0开始一个SpringCloud项目",
+        link: "/start/",
+      },
+      {
+        text: "从0开始一个gin项目",
+        link: "/deploy/",
+      },
+      {
+        text: "微服务架构",
+        link: "/more/",
+      },
+    ],
+  },
+  {
     text: "配置",
     items: [
       {
@@ -12,19 +63,7 @@ export default <Array<NavItem>>[
         link: "/start/",
       },
       {
-        text: "计算机基础",
-        link: "/start/",
-      },
-      {
-        text: "Java基础",
-        link: "/start/",
-      },
-      {
-        text: "Golang基础",
-        link: "/deploy/",
-      },
-      {
-        text: "微服务",
+        text: "部署",
         link: "/deploy/",
       },
       {
