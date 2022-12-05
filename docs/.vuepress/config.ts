@@ -13,7 +13,11 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
   dest: "dist", //输出目录, 默认是 dist,无需修改
   //base: "/", //部署站点的基础路径, 默认是 /, 不懂不要开启
   shouldPrefetch: () => false, //是否开启预加载, 建议不开启, 无需修改
-  head: head, //全局头部信息配置, 如需修改请修改 config/head.ts
+  head: [
+    [
+      'link', {rel: 'icon', href: '/assets/img/logo.png'}
+    ]
+  ], //全局头部信息配置, 如需修改请修改 config/head.ts
   theme: "vdoing", //主题, 无需修改
   themeConfig, //主题配置, 如需修改请修改 config/themeVdoingConfig.ts
   markdown, //markdown 相关配置, 如需修改请修改 config/markdown.ts
