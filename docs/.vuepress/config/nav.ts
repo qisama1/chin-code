@@ -12,7 +12,19 @@ export default <Array<NavItem>>[
         link: "/start/",
       },
       {
-        text: "部署",
+        text: "计算机基础",
+        link: "/start/",
+      },
+      {
+        text: "Java基础",
+        link: "/start/",
+      },
+      {
+        text: "Golang基础",
+        link: "/deploy/",
+      },
+      {
+        text: "微服务",
         link: "/deploy/",
       },
       {
