@@ -59,4 +59,11 @@ export default <VdoingThemeConfig>{
   // },
 
   // 社交图标 (显示于博主信息栏和页脚栏。内置图标：https://doc.xugaoyi.com/pages/a20ce8/#social)
+  footer: {
+    // 页脚信息, 请根据实际情况修改, 删掉不需要的部分
+    createYear: 2022, // 博客创建年份
+    copyrightInfo: `
+
+    `, // 博客版权信息，支持a标签
+  },
 };
