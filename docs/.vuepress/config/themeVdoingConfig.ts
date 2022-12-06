@@ -59,36 +59,4 @@ export default <VdoingThemeConfig>{
   // },
 
   // 社交图标 (显示于博主信息栏和页脚栏。内置图标：https://doc.xugaoyi.com/pages/a20ce8/#social)
-  social: {
-    // iconfontCssFile: '//at.alicdn.com/t/font_1678482_u4nrnp8xp6g.css', // 可选，阿里图标库在线css文件地址，对于主题没有的图标可自由添加
-    icons: [
-      {
-        iconClass: "icon-QQ",
-        title: "QQ",
-        link: "/assets/html/qq-groups.html",
-      },
-      {
-        iconClass: "icon-bilibili",
-        title: "哔哩哔哩",
-        link: "https://space.bilibili.com/28474682",
-      },
-      {
-        iconClass: "icon-github",
-        title: "GitHub",
-        link: "https://github.com/u2sb/vuepress-theme-vdoing-template",
-      },
-      {
-        iconClass: "icon-youjian",
-        title: "发邮件",
-        link: "mailto:xxwhite@foxmail.com",
-      },
-    ],
-  },
-  footer: {
-    // 页脚信息, 请根据实际情况修改, 删掉不需要的部分
-    createYear: 2022, // 博客创建年份
-    copyrightInfo: `
-
-    `, // 博客版权信息，支持a标签
-  },
 };
