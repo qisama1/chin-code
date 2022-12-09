@@ -55,4 +55,5 @@ export default <Array<NavItem>>[
       },
     ],
   },
+  { text: "环境部署", link: "/configs/" },
 ];
