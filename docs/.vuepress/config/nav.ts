@@ -46,12 +46,12 @@ export default <Array<NavItem>>[
         link: "/projects/#game-world/",
       },
       {
-        text: "从0开始一个gin项目",
-        link: "/game-world/",
+        text: "从0开始手写一个gin项目",
+        link: "/projects/#go-oj/",
       },
       {
-        text: "微服务架构",
-        link: "/game-world/",
+        text: "从0开始手写一个go语言服务器",
+        link: "/projects/#go-webserver/",
       },
     ],
   },
