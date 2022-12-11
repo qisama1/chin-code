@@ -36,6 +36,10 @@ export default <Array<NavItem>>[
         text: "JVM",
         link: "/more/",
       },
+      {
+        text: "Netty",
+        link: "/netty/",
+      }
     ],
   },
   {
