@@ -15,9 +15,18 @@ export default <Array<NavItem>>[
         text: "操作系统",
         link: "/deploy/",
       },
+    ],
+  },
+  {
+    text: "数据库",
+    items: [
       {
         text: "Mysql45讲",
         link: "/mysql45/",
+      },
+      {
+        text: "Redis数据结构与实现",
+        link: "/redis/",
       },
     ],
   },
