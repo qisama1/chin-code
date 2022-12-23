@@ -15,6 +15,10 @@ export default <Array<NavItem>>[
         text: "操作系统",
         link: "/deploy/",
       },
+      {
+        text: "算法题解",
+        link: "/datastructure/",
+      }
     ],
   },
   {
