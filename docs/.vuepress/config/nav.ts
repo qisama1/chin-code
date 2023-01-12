@@ -9,7 +9,7 @@ export default <Array<NavItem>>[
     items: [
       {
         text: "计算机网络",
-        link: "/start/",
+        link: "/network/",
       },
       {
         text: "操作系统",
