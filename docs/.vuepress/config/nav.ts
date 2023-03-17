@@ -13,7 +13,7 @@ export default <Array<NavItem>>[
       },
       {
         text: "操作系统",
-        link: "/deploy/",
+        link: "/os/",
       },
       {
         text: "算法题解",
@@ -43,7 +43,7 @@ export default <Array<NavItem>>[
       },
       {
         text: "JUC并发",
-        link: "/deploy/",
+        link: "/juc/",
       },
       {
         text: "JVM",
@@ -52,6 +52,10 @@ export default <Array<NavItem>>[
       {
         text: "Netty",
         link: "/netty/",
+      },
+      {
+        text: "Java基础",
+        link: "/javabasic/"
       }
     ],
   },
@@ -72,5 +76,19 @@ export default <Array<NavItem>>[
       },
     ],
   },
+  {
+    text: "分布式",
+    items: [
+      {
+        text: "RPC",
+        link: "/RPC/",
+      },
+      {
+        text: "分布式中间件",
+        link: "/distribution/",
+      },
+    ],
+  },
   { text: "环境部署", link: "/configs/" },
+  
 ];
