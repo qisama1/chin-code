@@ -10,11 +10,11 @@ bannerBg: none # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | no
 features: # 可选的
   - title: 计算机基础
     details: 计算机网络、操作系统、数据库等...
-    link: /start/ # 可选
+    link: /network/ # 可选
     imgUrl: /assets/img/base.png # 可选
   - title: Java基础
     details: Java集合，JUC并发，JVM等...
-    link: /start/ # 可选
+    link: /jvm/ # 可选
     imgUrl: /assets/img/java.png # 可选
   - title: 微服务
     details: SpringCloud、golang、SpringCloudAlibaba项目分享
