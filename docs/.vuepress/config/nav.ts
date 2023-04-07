@@ -22,6 +22,15 @@ export default <Array<NavItem>>[
     ],
   },
   {
+    text: "Spring",
+    items: [
+      {
+        text: "Spring",
+        link: "/spring/",
+      },
+    ],
+  },
+  {
     text: "数据库",
     items: [
       {
