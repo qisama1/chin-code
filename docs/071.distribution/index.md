@@ -2,7 +2,7 @@
 pageComponent:
   name: Catalogue
   data:
-    key: 070.netty
+    key: 071.distribution
     imgUrl: /assets/img/base.png
     description: 分布式学习
 title: 分布式
