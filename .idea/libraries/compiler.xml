@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="compiler">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/node_modules/xgplayer-shaka/node_modules/shaka-player/third_party/closure/compiler.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
