@@ -18,6 +18,10 @@ export default <Array<NavItem>>[
       {
         text: "算法题解",
         link: "/datastructure/",
+      },
+      {
+        test: "go语言基础",
+        link: "/Go/",
       }
     ],
   },
@@ -99,5 +103,5 @@ export default <Array<NavItem>>[
     ],
   },
   { text: "环境部署", link: "/configs/" },
-  
+
 ];
