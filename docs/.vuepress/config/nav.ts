@@ -20,7 +20,7 @@ export default <Array<NavItem>>[
         link: "/datastructure/",
       },
       {
-        test: "go语言基础",
+        text: "go语言基础",
         link: "/Go/",
       }
     ],

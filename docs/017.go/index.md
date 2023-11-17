@@ -2,7 +2,7 @@
 pageComponent:
   name: Catalogue
   data:
-    key: 015.go
+    key: 017.go
     imgUrl: /assets/img/base.png
     description: Go语言学习
 title: Go语言学习
